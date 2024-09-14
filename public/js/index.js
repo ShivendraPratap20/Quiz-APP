@@ -2,7 +2,7 @@ let quesArray = [];
 let currentQuesIndex;
 let totalScore = 0;
 
-fetch('http://localhost:3000/get_ques')
+fetch('https://quiz-app-taoo.onrender.com/get_ques')
     .then(response => response.json())
     .then(data => quesArray = data)
     .catch(error => console.error('Error loading JSON:', error));
