@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Which of the following programming is widely used for web developing?",
+        "options": ["Java", "Python", "JavaScript", "C"],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "Which programming language is generally used for Machine Learning",
+        "options": ["Java", "Python", "html", "C++"],
+        "answer": "Python"
+    },
+    {
+        "question": "React is one of the most popular:",
+        "options": ["OS", "Programming Language", "IDE", "Framework"],
+        "answer": "Framework"
+    }
+]
